@@ -11,18 +11,16 @@ const Hero = () => {
         
         <div className=''>
             <div className="hero-hand-icon">
-                <p className='mt-4'><b>NEW ARRIVALS</b>
-            <img src={hand_icon} alt=""/></p>
-             <p>FOR MEN, WOMEN & KIDS</p>
-                {/* <p>new</p> */}
-                {/* <img src={hand_icon} alt="" height={100}/> */}
+                <p className='mt-4 fs-3'><b>NEW ARRIVALS</b> &nbsp;
+            <img src={hand_icon} alt=""/> &nbsp;
+             FOR MEN, WOMEN & KIDS</p>
             </div>
             
             
         </div>
         <div className="hero-latest-btn">
-            <div>Latest Collection</div>
-            <img src={arrow} alt="" height={100} />
+            <div className='ms-4'>Latest Collection</div>
+            <img src={arrow} alt="" height={60} />
         </div>
       </div>
       <div className="hero-right">
