@@ -11,34 +11,34 @@ QuickKart is a responsive **E-commerce web application** focused on delivering a
 
 ## ✨ Features
 
-* 🔹 Responsive E-commerce UI (Desktop & Mobile Friendly)
-* 🔹 Reusable React Components (Navbar, Product Listings, Product Details, Cart, Categories)
-* 🔹 Category-based product browsing (Men, Women, Kids)
-* 🔹 Dynamic product listing and filtering
-* 🔹 Client-side routing using React Router
-* 🔹 Clean and scalable component-based architecture
-* 🔹 Fast development setup using Vite
+ 🔹 Responsive E-commerce UI (Desktop & Mobile Friendly)
+ 🔹 Reusable React Components (Navbar, Product Listings, Product Details, Cart, Categories)
+ 🔹 Category-based product browsing (Men, Women, Kids)
+ 🔹 Dynamic product listing and filtering
+ 🔹 Client-side routing using React Router
+ 🔹 Clean and scalable component-based architecture
+ 🔹 Fast development setup using Vite
 
 ---
 
 ## 🛠️ Technologies Used
 
-* **HTML5**
-* **CSS3**
-* **JavaScript (ES6+)**
-* **React.js**
-* **React Router**
-* **Vite**
+🔹 **HTML5**
+🔹 **CSS3**
+🔹 **JavaScript (ES6+)**
+🔹 **React.js**
+🔹 **React Router**
+🔹 **Vite**
 
 ---
 
 ## 📌 Upcoming Enhancements
 
-* Homepage UI redesign and feature improvements
-* Banner & promotional sections
-* Product search functionality
-* Add to cart animation
-* Backend integration (future scope)
+🔹 Homepage UI redesign and feature improvements
+🔹 Banner & promotional sections
+🔹 Product search functionality
+🔹 Add to cart animation
+🔹 Backend integration (future scope)
 
 ---
 
