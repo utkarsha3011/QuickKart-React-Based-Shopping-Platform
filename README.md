@@ -14,4 +14,4 @@
 
 • Managed project structure using Vite and followed component-based architecture for scalability and maintainability.
 
-Technologies Used: HTML, CSS, JavaScript, React.js, React Router, Vite
+**Technologies Used:** HTML, CSS, JavaScript, React.js, React Router, Vite
