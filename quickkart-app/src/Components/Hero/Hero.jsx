@@ -3,6 +3,7 @@ import './Hero.css'
 import hand_icon from '../Assets/hand_icon.png'
 import model1 from '../Assets/model1.png'
 import arrow from '../Assets/arrow.png'
+
 const Hero = () => {
   return (
     <div className='hero'>

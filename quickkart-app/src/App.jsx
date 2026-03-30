@@ -1,17 +1,20 @@
 
 import Navbar from './Components/Navbar/Navbar'
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, BrowserRouter } from 'react-router-dom';
 import Shop from './Pages/Shop';
 import Cart from './Pages/Cart';
 import ShopCategory from './Pages/ShopCategory';
 import Product from './Pages/Product';
 import LoginSignUp from './Pages/LoginSignUp';
+import Footer from './Components/Footer/Footer';
+
 
 function App() {
   
   return (
    
       <div>
+        
         <Navbar/>
       
           <Routes>
@@ -23,8 +26,8 @@ function App() {
             <Route path='/cart' element={<Cart/>}/>
             <Route path='/login' element={<LoginSignUp/>}/>
           </Routes>
+          <Footer/>
           
-       
       </div>
   
   )
